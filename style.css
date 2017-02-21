@@ -1,14 +1,15 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://static3.depositphotos.com/1000992/133/i/950/depositphotos_1337046-stock-photo-blue-water-splash.jpg");
       background-size: cover;
       color: white;
-    }
-    .nav {
-      color: white;
+      height: 300px;
+     
     }
     h1 {
       font-size: 70px;
+    padding-top: 100px;
+    color:black;
     }
     img {
       margin: 40px 0px 0px 0px;
