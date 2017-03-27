@@ -1,4 +1,4 @@
-/*global$*/
+/*global $*/
 $("#2").click(function(){
  alert("h1");
  var multiple = $("#a1").val();
