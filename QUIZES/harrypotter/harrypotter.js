@@ -1,8 +1,7 @@
 /*global $*/
 $("#2").click(function(){
- alert("h1");
  var multiple = $("#a1").val();
-     if (multiple === "answer 1") {
+     if (multiple == "answer 1") {
        $("#a").html("right");
        $("#a").css("color","green");
      } else {
@@ -10,7 +9,7 @@ $("#2").click(function(){
        $("#a").css("color","red");
      }
  var multiple = $("#b1").val();
-     if (multiple === "answer 2") {
+     if (multiple == "answer 2") {
        $("#b").html("right");
        $("#b").css("color","green");
      } else {
@@ -18,7 +17,7 @@ $("#2").click(function(){
        $("#b").css("color","red");
      }
      var multiple = $("#c1").val();
-     if (multiple === "answer 3") {
+     if (multiple == "answer 3") {
        $("#c").html("right");
        $("#c").css("color","green");
      } else {
@@ -26,7 +25,7 @@ $("#2").click(function(){
        $("#c").css("color","red");
      }
       var multiple = $("#d1").val();
-     if (multiple === "answer 4") {
+     if (multiple == "answer 4") {
        $("#d").html("right");
        $("#d").css("color","green");
      } else {
@@ -34,7 +33,7 @@ $("#2").click(function(){
        $("#d").css("color","red");
      }
       var multiple = $("#e1").val();
-     if (multiple === "answer 5") {
+     if (multiple == "answer 5") {
        $("#e").html("right");
        $("#e").css("color","green");
      } else {
@@ -42,7 +41,7 @@ $("#2").click(function(){
        $("#e").css("color","red");
      }
       var multiple = $("#f1").val();
-     if (multiple === "answer 6") {
+     if (multiple == "answer 6") {
        $("#f").html("right");
        $("#f").css("color","green");
      } else {
@@ -51,7 +50,7 @@ $("#2").click(function(){
      }
      
      var multiple = $("#g1").val();
-     if (multiple === "answer 7") {
+     if (multiple == "answer 7") {
        $("#g").html("right");
        $("#g").css("color","green");
      } else {
@@ -59,7 +58,7 @@ $("#2").click(function(){
        $("#g").css("color","red");
      }
      var multiple = $("#h1").val();
-     if (multiple === "answer 8") {
+     if (multiple == "answer 8") {
        $("#h").html("right");
        $("#h").css("color","green");
      } else {
@@ -67,7 +66,7 @@ $("#2").click(function(){
        $("#h").css("color","red");
      }
       var multiple = $("#i1").val();
-     if (multiple === "answer 9") {
+     if (multiple == "answer 9") {
        $("#i").html("right");
        $("#i").css("color","green");
      } else {
@@ -75,7 +74,7 @@ $("#2").click(function(){
        $("#i").css("color","red");
      }
       var multiple = $("#j1").val();
-     if (multiple === "answer 10") {
+     if (multiple == "answer 10") {
        $("#j").html("right");
        $("#j").css("color","green");
      } else {
