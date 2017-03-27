@@ -1,8 +1,10 @@
-body{
-    background-color:blue;
+body
+{
+    background-color:black;
+    color:white;
 }
-img {
-    height: 200px;
-    width: 400px;
+img
+{
+    height:395px;
+    width:600px;
 }
-    
